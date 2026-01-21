@@ -1,7 +1,5 @@
 # EL_Q1_2K26_CS_Task_3
 Elevate Labs task 3 repo
-# EL-Cyber_Security_Task_5
-# Task 5 – Network Traffic Capture and Analysis using Wireshark
 
 ## 📌 Objective
 Capture live network packets using Wireshark and analyze them to identify at least three different network protocols and their functionalities.
